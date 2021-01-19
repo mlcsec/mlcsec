@@ -1,5 +1,17 @@
-<!--https://giphy.com/-->
 ### Bonjour 👋
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=mlcsec&show_icons=true&theme=vue-dark" width="380">
-<p><em>Security Consultant based in UK <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy-downsized.gif" width="30"></em></p>
+<!--<img align="right" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy-downsized-large.gif"/>-->
+
+<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy-downsized.gif" align="right">
+
+*Security Consultant based in UK* 
+
+<br>
+
+*Love anything related to web app/cloud security, red & blue team TTPs, reverse engineering, malware, and exploit dev.*
+
+<!--<p><em>Security Consultant based in UK <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy-downsized.gif" width="30"></em></p>-->
+
+<img src="https://github-readme-stats.vercel.app/api?username=mlcsec&show_icons=true&theme=vue-dark" width="380">
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlcsec&hide=html&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
